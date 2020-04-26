@@ -1,0 +1,25 @@
+[connection]
+id=Local controller - old plugable
+uuid=5e1fbb93-fa3d-3055-899c-8644452ce5c3
+type=ethernet
+autoconnect=false
+autoconnect-priority=-999
+permissions=
+timestamp=1587241416
+
+[ethernet]
+mac-address=8C:AE:4C:E9:2E:E2
+mac-address-blacklist=
+
+[ipv4]
+address1=192.168.3.1/24
+dns-search=
+method=shared
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+ip6-privacy=0
+method=shared
+
+[proxy]
